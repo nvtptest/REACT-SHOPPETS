@@ -1,0 +1,10 @@
+cd frontend
+
+npx create-react-app .
+** dấu . là để tạo luôn các file react tại thư mục hiện tại (frontend), nếu đặt tên thì sẽ tạo theo dạng frontend/{=Tên}
+
+- Trong thư mục src:
+để lại App.css, App.js, index.js
+
+- Cài react router
+npm install react-router-dom@6
